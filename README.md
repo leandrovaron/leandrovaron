@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leandrovaron
-- 👀 I’m interested in learn about data science and improve my german b1 Ich habe fertig!
+- 👀 I’m interested in learn about data science and improve my german b1 *Ich habe fertig!*
 - 🌱 I’m currently learning data science with python
 - 💞️ I’m looking to collaborate on not sure meanwhile absorbing all the knowledge
 - ⚡ Fun fact: I focused my career on the production of beer and liquors in Germany, without liking liquor and even less beer.
